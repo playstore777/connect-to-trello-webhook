@@ -1,0 +1,9 @@
+Webhook created successfully: {
+    id: '6725f83b05533a9fd4a7c4aa',
+    description: 'Trello + Remotion Webhook',
+    idModel: '6673140478dea4d9a27d1854',
+    callbackURL: 'https://low-middleware.vercel.app/api/trello-webhook',
+    active: true,
+    consecutiveFailures: 0,
+    firstConsecutiveFailDate: null
+  }
